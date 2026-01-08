@@ -1,5 +1,7 @@
 <h1>Hi, I'm Victoria, an <a href="https://www.linkedin.com/in/victoria-sisk/">IT Professional</a>☺</h1>
 
+I am an entry-level IT professional with hands-on experience in hardware, operating systems, networking fundamentals, and cloud computing. Skilled in troubleshooting common technical issues, working with ticketing systems, and delivering strong customer support. Familiar with Azure, Active Directory, DNS, VPNs, IPv4 addressing, the OSI model, and network file permissions. Passionate about cybersecurity, continuous learning, and building reliable, user-focused IT solutions.
+
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
