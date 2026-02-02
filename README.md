@@ -5,7 +5,7 @@ I am an entry-level IT professional with hands-on experience in hardware, operat
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/siskvictoriaa/osticket-prereqs)
+  - [osTicket: Prerequisites and Installation]
   - [osTicket: Post-Installation Configuration](https://github.com/siskvictoriaa/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/siskvictoriaa/ticket-lifecycle)
 - <b>Microsoft Azure</b>
